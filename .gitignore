@@ -1,0 +1,21 @@
+# Ignorar a pasta de cache do Python
+__pycache__/
+
+# Ignorar ambientes virtuais
+venv/
+env/
+
+# Arquivos de log e banco de dados
+*.log
+*.sqlite3
+
+# Arquivos temporários do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos gerados por editores de código
+.vscode/
+.idea/
+
+# Outros arquivos comuns para Python
+*.pyc
